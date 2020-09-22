@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\psu\3 семестр\логика\psu-proga\лаба 2\laba3\laba3\source.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba3.vcxproj -> E:\PSU\3 семестр\Логика\PSU-Proga\Лаба 2\laba3\Debug\laba3.exe

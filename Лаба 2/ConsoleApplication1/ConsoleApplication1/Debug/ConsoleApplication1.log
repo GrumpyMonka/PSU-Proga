@@ -1,0 +1,14 @@
+﻿  Source.cpp
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(70): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(89): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(105): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(128): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(146): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(164): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(189): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(214): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(239): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(272): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(303): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\psu\3 семестр\логика\psu-proga\лаба 2\consoleapplication1\consoleapplication1\source.cpp(335): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> E:\PSU\3 семестр\Логика\PSU-Proga\Лаба 2\ConsoleApplication1\Debug\ConsoleApplication1.exe
